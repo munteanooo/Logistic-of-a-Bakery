@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/eUseControl/FileContentIndex/4db7a83e-c398-4acd-ab91-d7363b629abd.vsidx
+/.vs/eUseControl/FileContentIndex/57dbd96f-a65e-4ea5-8473-f843dc6c65c5.vsidx
+/.vs/eUseControl/FileContentIndex/61a18916-91b0-4cd2-afdb-d9cbd6e6fda4.vsidx
+/eUseControl.Web/Controllers/HomeController.cs
